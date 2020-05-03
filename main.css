@@ -1,0 +1,16 @@
+
+body {
+	background: url(assets/freedom.jpg) no-repeat center center fixed;
+}
+
+h1 {
+	font-family: 'Julius Sans One', sans-serif;
+}
+
+
+
+p {
+	font-family: 'Crimson Text', serif;
+	font-style: italic;
+	text-align: center;
+}
